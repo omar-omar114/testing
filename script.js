@@ -3,6 +3,7 @@ var input=document.getElementById("userinput");
 var ul=document.querySelector("ul");
 var list=document.querySelectorAll("li");
 var btns=document.getElementsByClassName("delete");
+var a=1;
 
 
 // delete liste item when we click delete button
